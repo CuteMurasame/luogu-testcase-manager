@@ -13,5 +13,5 @@ No external dependencies (uses Tkinter which is included with Python).
 
 Run: 
 ```
-python3 testcase_manager.py
+python3 tcman.py
 ```
